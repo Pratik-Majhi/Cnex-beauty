@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @keyframes spin {
+  to {
+      transform: rotate(360deg);
+  }
+}
+.animate-spin {
+  animation:  all 8s ease-in-out 0s;
+} */
+  
+ 
